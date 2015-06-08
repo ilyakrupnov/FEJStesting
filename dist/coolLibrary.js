@@ -7,4 +7,5 @@
 	n.setAttribute('foo', 'bar');
 	n.classList.add('box');
 	document.body.appendChild(n);
+	n.classList.add('lalka');
 })();
